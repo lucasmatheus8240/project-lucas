@@ -1,0 +1,82 @@
+/*corpo geral do site*/
+body{
+    font-size: 25px;  
+    background-color:   #696969;
+    background-position: center;
+  	color: white;
+    background: #020024;
+    background: linear-gradient(180deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 100%, rgba(0, 212, 255, 1) 100%);
+    height: 990px;
+}
+
+/*foto de perfil e nome*/
+#perfil{
+	text-align: center;
+}
+
+ /*titulo dos contatos*/
+.faixa{
+	text-align: center;
+	color: white;
+	border: 50%;
+	height: 200px;
+  border: 1;
+}
+
+/*conteudo das páginas*/
+.conteudo{
+  text-align: left;
+   font-size: 26px;
+   color: white;
+}
+
+/*link das páginas*/
+a{
+  text-decoration: none;
+  margin: 20px;
+}
+
+/*mudar de cor quando o mouse passar por cima no nome*/
+a:hover{
+    background-color: red;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+/*titulos das páginas*/
+h4{
+    background-color: white;
+    color: black;
+    text-align: center;
+    background-size: 10px 10px;
+}
+
+/*arredondar borda da foto do perfil*/
+img{
+  border-radius: 20px;
+}
+
+/*rodapé da página*/
+footer{
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+/*opcao das páginas*/
+.opcao{
+  text-align: center;
+}
+/*contato da página*/
+.contato{
+  text-align: center;
+}
+.curso{
+  background-color: white;
+  color: black;
+  text-align: center;
+  box-shadow: 5px;
+  margin-left: 400px;
+  margin-right: 400px;
+  border-radius: 12px;
+
+}
