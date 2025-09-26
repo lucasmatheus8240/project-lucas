@@ -1,11 +1,9 @@
 /*corpo geral do site*/
 body{
     font-size: 25px;  
-    background-color:   #696969;
+    background-color:   #F54927;
     background-position: center;
   	color: white;
-    background: #020024;
-
 }
 
 /*foto de perfil e nome*/
@@ -80,3 +78,4 @@ footer{
 
 
 }
+
