@@ -1,9 +1,9 @@
 /*corpo geral do site*/
 body{
     font-size: 25px;  
-    background-color:   #F54927;
-    background-position: center;
   	color: white;
+	background:#2A7B9B;
+	background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133,1) 100%, rgba(237, 211, 83, 1)100%);
 }
 
 /*foto de perfil e nome*/
@@ -78,4 +78,5 @@ footer{
 
 
 }
+
 
